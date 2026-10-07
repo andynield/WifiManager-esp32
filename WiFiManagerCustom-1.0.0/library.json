@@ -1,0 +1,15 @@
+{
+  "name": "ESP32WiFiManager",
+  "version": "1.0.0",
+  "author": "GitHub Copilot",
+  "maintainer": "andynield <andynield@users.noreply.github.com>",
+  "sentence": "Custom WiFi Manager for ESP32 - configuration portal, network scan, and NVS storage",
+  "paragraph": "A lightweight WiFi manager for ESP32/C3 with a modern web UI, non-blocking operation, and NVS credential storage.",
+  "dependencies": [
+    "ArduinoJson",
+    "ArduinoOTA"
+  ],
+  "category": "Network",
+  "url": "https://github.com/andynield/WifiManager-esp32",
+  "architectures": ["esp32"]
+}
